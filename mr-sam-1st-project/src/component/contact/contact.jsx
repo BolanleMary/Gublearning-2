@@ -58,7 +58,7 @@ const contact = () => {
           <textarea
             name=""
             id=""
-            className="border-solid border-2 border-black -600 w-full box-border h-32 w-full p-4 border-1 rounded-lg"
+            className="border-solid border-2 border-black -600 box-border h-32 w-full p-4 border-1 rounded-lg"
             required
           ></textarea>
         </div>
